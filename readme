@@ -1,0 +1,14 @@
+.github
+.vscode
+.gitignore
+.imgbotconfig
+.imgbotconfig
+.prettierignore
+EXAMPLE.env
+LICENSE
+SECURITY.md
+index.js
+package-lock.json
+package.json
+render.yaml
+vercel.json
